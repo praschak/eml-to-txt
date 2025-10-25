@@ -17,7 +17,7 @@ No external dependencies required! The script uses only Python standard library 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/eml-to-txt-converter.git
+git clone https://github.com/praschak/eml-to-txt-converter.git
 cd eml-to-txt-converter
 
 # Make the script executable
